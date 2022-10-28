@@ -1,0 +1,15 @@
+/*
+Theme Name: Theme Web Api
+Theme URI: https://wordpress.org/themes/twentytwentytwo/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Create website api
+Version: 1.2
+Template: twentytwentytwo
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwentytwo
+*/
+
+.titlu-pagina {
+     color: red !important;
+ }

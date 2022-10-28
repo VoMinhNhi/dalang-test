@@ -1,0 +1,22 @@
+[28-Oct-2022 16:47:00 UTC] run 1
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  setcookie(): Passing null to parameter #5 ($domain) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\option.php on line 1112
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  setcookie(): Passing null to parameter #5 ($domain) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\option.php on line 1113
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:02 UTC] run 1
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  setcookie(): Passing null to parameter #5 ($domain) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\option.php on line 1112
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  setcookie(): Passing null to parameter #5 ($domain) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\option.php on line 1113
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:47:02 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\App\Laragon\laragon\www\wp-api\wp-includes\formatting.php on line 2772
+[28-Oct-2022 16:48:03 UTC] run 1
+[28-Oct-2022 16:49:03 UTC] run 1
